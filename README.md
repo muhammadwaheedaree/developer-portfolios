@@ -6,11 +6,11 @@ Welcome to the **Developer Portfolios Repository** – where I show off my **Nex
 
 ### 1. **Portfolio with Custom CSS**  
 - **Purpose**: Look, no pre-built classes here! Just pure, handcrafted CSS magic.  
-- **Live Demo**: [View Portfolio](https://personal-portfolio-zeta-wheat.vercel.app/)  
+- **Live Demo**: [View Portfolio](https://dev-portfolio-roan.vercel.app/)  
 
 ### 2. **Portfolio with Tailwind CSS**  
 - **Purpose**: Fast, efficient, and oh-so-stylish with Tailwind's utility-first approach.  
-- **Live Demo**: [View Portfolio](https://my-portfolio-phi-three-64.vercel.app/)  
+- **Live Demo**: [View Portfolio](https://my-portfolio-beryl-tau.vercel.app/)  
 
 > **PSA**: Need more details? Check the project folders, where all the magic happens. 💥
 
