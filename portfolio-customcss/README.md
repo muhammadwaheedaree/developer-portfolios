@@ -4,7 +4,7 @@ Welcome to my personal portfolio built with **Next.js**, **TypeScript**, and cus
 
 ## 🌐 Live Demo
 
-Explore the live version on **[Vercel](https://personal-portfolio-zeta-wheat.vercel.app/)**.
+Explore the live version on **[Vercel](https://dev-portfolio-roan.vercel.app/)**.
 
 ## ✨ Features
 
