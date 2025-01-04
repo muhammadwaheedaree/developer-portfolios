@@ -3,7 +3,7 @@
 **A modern and responsive portfolio website** built using **Next.js** and **Tailwind CSS**, showcasing my skills, experience, and projects as a frontend developer.
 
 ## 🚀 Live Demo
-[View Live Portfolio](https://my-portfolio-phi-three-64.vercel.app/)
+[View Live Portfolio](https://my-portfolio-beryl-tau.vercel.app/)
 
 ## 🛠️ Features
 - **Responsive Design**: Optimized for both desktop and mobile.
